@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Login,Chrome 86.0.4240.75,,,2020-10-12 17:13:03,2020-10-12 17:13:51,48.113s,FAILED
+,,,,,,,
+Test Cases/Tc1,Chrome 86.0.4240.75,,,2020-10-12 17:13:03,2020-10-12 17:13:15,11.549s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 17:13:04,2020-10-12 17:13:10,5.987s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 17:13:10,2020-10-12 17:13:14,3.526s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 17:13:14,2020-10-12 17:13:15,1.074s,FAILED
+,,,,,,,
+Test Cases/Tc2,Chrome 86.0.4240.75,,,2020-10-12 17:13:15,2020-10-12 17:13:24,9.000s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 17:13:15,2020-10-12 17:13:20,4.331s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 17:13:20,2020-10-12 17:13:23,3.251s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 17:13:23,2020-10-12 17:13:24,0.811s,FAILED
+,,,,,,,
+Test Cases/Tc3,Chrome 86.0.4240.75,,,2020-10-12 17:13:24,2020-10-12 17:13:33,8.891s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 17:13:24,2020-10-12 17:13:28,4.318s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 17:13:28,2020-10-12 17:13:32,3.389s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 17:13:32,2020-10-12 17:13:33,0.776s,FAILED
+,,,,,,,
+Test Cases/Tc4,Chrome 86.0.4240.75,,,2020-10-12 17:13:33,2020-10-12 17:13:42,9.127s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 17:13:33,2020-10-12 17:13:37,4.239s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 17:13:37,2020-10-12 17:13:41,3.422s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 17:13:41,2020-10-12 17:13:42,0.892s,FAILED
+,,,,,,,
+Test Cases/Tc5,Chrome 86.0.4240.75,,,2020-10-12 17:13:42,2020-10-12 17:13:51,8.900s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 17:13:42,2020-10-12 17:13:47,4.327s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 17:13:47,2020-10-12 17:13:50,3.265s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 17:13:50,2020-10-12 17:13:51,0.772s,FAILED
