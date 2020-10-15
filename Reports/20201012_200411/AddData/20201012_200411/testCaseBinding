@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/AddData - Iteration 1","testCaseId":"Test Cases/AddData","bindedValues":{"pass":"\u0027ThisIsNotAPassword\u0027","user":"\u0027John Doe\u0027"}}
+{"testCaseName":"Test Cases/AddData - Iteration 2","testCaseId":"Test Cases/AddData","bindedValues":{"pass":"\u0027ThisIsNotAPassword\u0027","user":"\u0027John Doe 1\u0027"}}

@@ -4,25 +4,25 @@
    <name>Tc4</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c9faa0a4-4ac5-43ab-a637-0718541c04f5</testCaseGuid>
+   <testCaseGuid>8824127e-0c89-4d28-9b67-6e938bb4f933</testCaseGuid>
    <variable>
       <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
       <description></description>
-      <id>1a9138dc-2b39-4e3f-bb7d-ff7d1f667f90</id>
+      <id>20355cd2-6f83-4024-a707-b38a2cafaa6f</id>
       <masked>false</masked>
       <name>url</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>cd7c59bf-de2f-43fc-bcd1-17fe131a9f1f</id>
+      <id>834c4d0a-6111-47cb-9e39-9c91eacd06e9</id>
       <masked>false</masked>
       <name>UserEmpty</name>
    </variable>
    <variable>
       <defaultValue>'ThisIsNotAPassword'</defaultValue>
       <description></description>
-      <id>4a5711ab-b09a-48fa-affa-ce6d6fae99ed</id>
+      <id>3f28ce2f-efba-4829-ade6-50e34873c8e4</id>
       <masked>false</masked>
       <name>pass</name>
    </variable>

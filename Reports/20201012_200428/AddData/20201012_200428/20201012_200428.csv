@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AddData,Chrome 86.0.4240.75,,,2020-10-12 20:04:36,2020-10-12 20:05:04,27.480s,PASSED
+,,,,,,,
+Test Cases/AddData,Chrome 86.0.4240.75,,,2020-10-12 20:04:37,2020-10-12 20:04:52,14.917s,PASSED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 20:04:38,2020-10-12 20:04:43,5.677s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 20:04:43,2020-10-12 20:04:47,3.436s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 20:04:47,2020-10-12 20:04:48,1.104s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Username_username""), user)",Chrome 86.0.4240.75,,,2020-10-12 20:04:48,2020-10-12 20:04:49,0.865s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Password_password""), pass)",Chrome 86.0.4240.75,,,2020-10-12 20:04:49,2020-10-12 20:04:50,0.774s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Login""))",Chrome 86.0.4240.75,,,2020-10-12 20:04:50,2020-10-12 20:04:51,0.981s,PASSED
+closeBrowser(),Chrome 86.0.4240.75,,,2020-10-12 20:04:51,2020-10-12 20:04:52,1.444s,PASSED
+,,,,,,,
+Test Cases/AddData,Chrome 86.0.4240.75,,,2020-10-12 20:04:52,2020-10-12 20:05:04,11.851s,PASSED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-12 20:04:52,2020-10-12 20:04:56,3.396s,PASSED
+navigateToUrl(url),Chrome 86.0.4240.75,,,2020-10-12 20:04:56,2020-10-12 20:04:59,3.700s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 86.0.4240.75,,,2020-10-12 20:04:59,2020-10-12 20:05:00,0.933s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Username_username""), user)",Chrome 86.0.4240.75,,,2020-10-12 20:05:00,2020-10-12 20:05:01,0.806s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Password_password""), pass)",Chrome 86.0.4240.75,,,2020-10-12 20:05:01,2020-10-12 20:05:02,0.785s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Login""))",Chrome 86.0.4240.75,,,2020-10-12 20:05:02,2020-10-12 20:05:03,1.079s,PASSED
+closeBrowser(),Chrome 86.0.4240.75,,,2020-10-12 20:05:03,2020-10-12 20:05:04,1.089s,PASSED

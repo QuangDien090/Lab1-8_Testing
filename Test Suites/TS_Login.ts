@@ -4,7 +4,7 @@
    <name>TS_Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>dientq1999@gmail.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>dd1d3a94-5e30-4f1b-a358-71da565ca592</testSuiteGuid>
    <testCaseLink>
-      <guid>eaf74cbb-3030-423c-8836-5aa48f561f35</guid>
+      <guid>df4735e4-0e8e-41bb-986b-97b89fbf4f4a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Tc1</testCaseId>
@@ -20,23 +20,23 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>7ebce4ba-b464-4d79-b03b-3721170970f3</variableId>
+         <variableId>cba1efb6-1c8b-4226-9d07-0a88e2edbbf1</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5a9551ab-21ef-4bf0-9cdd-0ec6a7f4d6cd</variableId>
+         <variableId>69a20ec6-2f05-4ffe-869d-c1a168cfd77e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>72485f31-624a-4c44-8a22-35ad6cdebe08</variableId>
+         <variableId>ced59834-c3ab-42a3-917b-92413b04df99</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>cc4a5802-4ff7-4234-9555-5f084802038f</guid>
+      <guid>3c66c3a5-9697-4f4a-86b0-e800ae2b3b80</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Tc2</testCaseId>
@@ -44,23 +44,23 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>9ec7acc2-76b5-4ad4-9e46-53577995301a</variableId>
+         <variableId>03ea66de-cfdb-4520-b649-c74a7cbd8393</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c99b3ae4-122d-406b-bc16-caf37d37fb2a</variableId>
+         <variableId>d1aecfed-5bde-4016-a4c2-40f9e14a2e31</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>47d182f5-eecd-41b2-a50a-8ef50f7bdd74</variableId>
+         <variableId>f3e37da6-6823-4b33-98c5-c1ba24309980</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f3a7c051-a09e-41e8-aba8-1b64bbd0634a</guid>
+      <guid>8f0baf45-47eb-4dfb-9bfc-55a9cc077442</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Tc3</testCaseId>
@@ -68,23 +68,23 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>ec4523b7-5348-46e4-9ef7-309975afe98d</variableId>
+         <variableId>d3033e9f-4b95-4a02-8293-69383dd68f7c</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f7872489-3870-496b-ae86-6c0ee32bcb06</variableId>
+         <variableId>1999f564-868c-47bf-a2cb-f4fdb81806c4</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>7e4c944a-354d-48d3-a8b0-71de18875442</variableId>
+         <variableId>e0604651-5dd2-47f9-a1aa-3e9865cc84bd</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>eb258b0d-2e9b-403f-aa70-b1880644db9b</guid>
+      <guid>ad556bc1-cb1a-4d46-9c1d-ea5a78642366</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Tc4</testCaseId>
@@ -92,23 +92,23 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>1a9138dc-2b39-4e3f-bb7d-ff7d1f667f90</variableId>
+         <variableId>20355cd2-6f83-4024-a707-b38a2cafaa6f</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>cd7c59bf-de2f-43fc-bcd1-17fe131a9f1f</variableId>
+         <variableId>834c4d0a-6111-47cb-9e39-9c91eacd06e9</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>4a5711ab-b09a-48fa-affa-ce6d6fae99ed</variableId>
+         <variableId>3f28ce2f-efba-4829-ade6-50e34873c8e4</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>d0c821f6-897f-4758-a62c-ea479bfeb4fb</guid>
+      <guid>85c80b4f-c293-4e44-bcca-f8cbc01da752</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Tc5</testCaseId>
@@ -116,19 +116,19 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>df5724cf-301d-4c46-8e82-1c99325a4dcc</variableId>
+         <variableId>f5d51876-40d1-4d41-b4b6-66f093858592</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c43249a1-0304-4075-acf8-423e77109f9e</variableId>
+         <variableId>f0c9d3c5-cfb3-470c-b9e5-30028fcad879</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>049b9120-9622-4455-9b3d-06713a7cf5b5</variableId>
+         <variableId>8cc58036-21ef-4b02-946b-a269f1d87f7e</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

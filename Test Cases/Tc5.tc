@@ -4,25 +4,25 @@
    <name>Tc5</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c3413461-72f8-409d-b37d-f7f4cb22a704</testCaseGuid>
+   <testCaseGuid>27150c4f-8114-49a1-89ec-eda598049cd6</testCaseGuid>
    <variable>
       <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
       <description></description>
-      <id>df5724cf-301d-4c46-8e82-1c99325a4dcc</id>
+      <id>f5d51876-40d1-4d41-b4b6-66f093858592</id>
       <masked>false</masked>
       <name>url</name>
    </variable>
    <variable>
       <defaultValue>'John Doe'</defaultValue>
       <description></description>
-      <id>c43249a1-0304-4075-acf8-423e77109f9e</id>
+      <id>f0c9d3c5-cfb3-470c-b9e5-30028fcad879</id>
       <masked>false</masked>
       <name>User</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>049b9120-9622-4455-9b3d-06713a7cf5b5</id>
+      <id>8cc58036-21ef-4b02-946b-a269f1d87f7e</id>
       <masked>false</masked>
       <name>pass</name>
    </variable>
